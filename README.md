@@ -1,4 +1,4 @@
-# umbrella-lab
+# Umbrella Lab
 
 ## Project setup
 ```
